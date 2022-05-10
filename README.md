@@ -55,6 +55,6 @@ Set-AsapTask -Id <obtain from Get-AsapTask> -Task <task> -Description <descripti
 * Remove Task
   * Get Id with Get-AsapTask
 ```
-Remove-AsapTask -Id <obtain from Get-AsapTask>`
+Remove-AsapTask -Id <obtain from Get-AsapTask>
 ````
 
